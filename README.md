@@ -1,4 +1,4 @@
-# agenda 🗒️
+# Agenda 🗒️
 - Criar tabelas
 
   - python manage.py migrate
